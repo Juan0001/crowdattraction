@@ -6,8 +6,8 @@
 - "Eugen Tsuprun"
 - "Jack Fu"
 - "Sahil Shah"
-- "duyu8411"
-- "ftvision"
+- "Yu Du"
+- "Feitong Yang"
 -  "Tobi Bosede"
 
 
