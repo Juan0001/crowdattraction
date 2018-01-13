@@ -2,7 +2,7 @@
 - A project for JHU Data Science Hackathon 2015
 
 ## Team members:
-- "Juan Luo" juanluo2008@gmail.com
+- "Juan L. Kehoe" juanluo2008@gmail.com
 - "Eugen Tsuprun"
 - "Jack Fu"
 - "Sahil Shah"
